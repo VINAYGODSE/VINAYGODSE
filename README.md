@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VINAYGODSE
+- 👋 Hi, I’m @VINAY KUMAR J
 - 👀 I’m interested in Embedded Development 
 - 🌱 I’m currently learning Embedded Systems 
 - 💞️ I’m looking to collaborate on Your Company
